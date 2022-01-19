@@ -6,7 +6,7 @@
                 "Ask About Our HydraFacials!",
                 "Ask About Our Coolsculpting?",
                 "Book A Consultation Today!",
-                "Bonita!",
+                "Bonita!"
         ],
         "morning" : [
                 "You look great today!",
@@ -15,7 +15,7 @@
                 "Ask About Our HydraFacials!",
                 "Ask About Our Coolsculpting?",
                 "Book A Consultation Today!",
-                "Bonita!",
+                "Bonita!"
         ],
         "afternoon" : [
                 "You look great today!",
@@ -24,7 +24,7 @@
                 "Ask About Our HydraFacials!",
                 "Ask About Our Coolsculpting?",
                 "Book A Consultation Today!",
-                "Bonita!",
+                "Bonita!"
         ],
         "evening" : [
                 "You look great today!",
@@ -33,6 +33,6 @@
                 "Ask About Our HydraFacials!",
                 "Ask About Our Coolsculpting?",
                 "Book A Consultation Today!",
-                "Bonita!",
+                "Bonita!"
         ]
 }
