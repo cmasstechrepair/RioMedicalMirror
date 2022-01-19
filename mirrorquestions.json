@@ -5,8 +5,8 @@
                 "Happy Skin, Happy Life!",
                 "Ask About Our HydraFacials!",
                 "Ask About Our Coolsculpting?",
-                "Book A Consultation Today!"
-                "Bonita!"
+                "Book A Consultation Today!",
+                "Bonita!",
         ],
         "morning" : [
                 "You look great today!",
@@ -14,8 +14,8 @@
                 "Happy Skin, Happy Life!",
                 "Ask About Our HydraFacials!",
                 "Ask About Our Coolsculpting?",
-                "Book A Consultation Today!"
-                "Bonita!"
+                "Book A Consultation Today!",
+                "Bonita!",
         ],
         "afternoon" : [
                 "You look great today!",
@@ -23,8 +23,8 @@
                 "Happy Skin, Happy Life!",
                 "Ask About Our HydraFacials!",
                 "Ask About Our Coolsculpting?",
-                "Book A Consultation Today!"
-                "Bonita!"
+                "Book A Consultation Today!",
+                "Bonita!",
         ],
         "evening" : [
                 "You look great today!",
@@ -32,7 +32,7 @@
                 "Happy Skin, Happy Life!",
                 "Ask About Our HydraFacials!",
                 "Ask About Our Coolsculpting?",
-                "Book A Consultation Today!"
-                "Bonita!"
+                "Book A Consultation Today!",
+                "Bonita!",
         ]
 }
